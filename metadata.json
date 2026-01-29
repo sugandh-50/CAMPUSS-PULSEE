@@ -1,0 +1,5 @@
+{
+  "name": "CampusPulse",
+  "description": "A real-time student well-being and issue intelligence system that detects, prioritizes, and resolves campus concerns using intelligent urgency analysis.",
+  "requestFramePermissions": []
+}
